@@ -5,7 +5,7 @@ lua54 'yes'
 name 'pigeon-indicators'
 author 'Pigeon Studios'
 description 'Indicators and hazard lights on the arrow keys, synced for every player, and off by themselves after a turn.'
-version '0.1.0'
+version '1.0.0'
 repository 'https://github.com/pigeon-studios-uk/pigeon-indicators'
 
 -- Pigeon Studios version registry entry, read by server/version_check.lua.
